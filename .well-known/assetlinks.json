@@ -1,0 +1,9 @@
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.jhonwwvk_gif.twa",
+        "sha256_cert_fingerprints": ["AF:CF:14:58:7D:46:C6:78:08:81:FE:4B:39:66:39:4D:E1:07:06:FB:D6:48:38:F5:C0:A1:A3:8D:4A:63:83:4C"]
+      }
+    }]
+
